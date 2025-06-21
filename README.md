@@ -9,7 +9,7 @@ It is a MCP using the Merriam Webster API. It can give meanings, part of speech,
   "mcpServers": {
     "dictionary-mcp": {
       "command": "python",
-      "args": ["\\main.py"],
+      "args": ["Path\\to\\main.py"],
       "cwd": "Path\\to\\mcp\\folder",
       "env": {
         "PATH": "Path\\to\\env\\Scripts;%PATH%"
